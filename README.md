@@ -1,8 +1,6 @@
 # HCIA-Access-
-Why you should learn HCIA Access ? 
 
-I think for me HCIA Access is entry level for those working in ISP that desired to understand how processes of PON work. In here, I am focusing on how to 
-provisioning on OLT. 
+HCIA-Access is entry level for those working in ISP and desired to be understand basic how the processes of PON technology working.
+In this documentation, I am focused how to provisioning on Optical Line Terminal ( OLT ). 
 
-I hope you enjoy it. if you have found any mistake in my own document noted, feel free to contact me then I will be improve and update to make more useful.
-thanks everyone. 
+
